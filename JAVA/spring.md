@@ -86,3 +86,4 @@ applicationContext中包含一个`ApplicationEventMulticaster` ，它有一个�
 ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2c22c636-5074-4abe-ae01-354f969f0503/Untitled.png)
 
 1. `ApplicationContext` 就是最大的beanFactory，或者说IOC容器，通过这个类可以获取到所有跟IOC有关的方法
+

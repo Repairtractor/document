@@ -87,4 +87,3 @@ applicationContext中包含一个`ApplicationEventMulticaster` ，它有一个�
 
 1. `ApplicationContext` 就是最大的beanFactory，或者说IOC容器，通过这个类可以获取到所有跟IOC有关的方法
 
-![图 5](../images/f20bd72e6f5b9dafe2b546e95a18c51de7e4203639129184b9a4c92148272d21.png)  

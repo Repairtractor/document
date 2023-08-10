@@ -12,6 +12,7 @@
 			"**/CVS": true,
 			"**/.DS_Store": true,
 			"**/Thumbs.db": true,
+			"**/images":true
 		}
 	}
 }
